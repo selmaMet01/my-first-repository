@@ -14,9 +14,8 @@ public class Main{
    m2.title = "The Hangover";
    m2.genre = "Comedy";
    m2.duration = 100;
-   
+
    m2.displayInfo();     
-   
    
   Movie m3= new Movie();
    
